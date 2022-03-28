@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="comp1721.cwk2.Basic" tests="15" skipped="0" failures="0" errors="0" timestamp="2021-06-04T00:39:28" hostname="DESKTOP-RSTOE79" time="0.103">
+  <properties/>
+  <testcase name="BaccaratCard objects are created properly" classname="comp1721.cwk2.Basic" time="0.036"/>
+  <testcase name="BaccaratCard objects can be compared &amp; ordered" classname="comp1721.cwk2.Basic" time="0.014"/>
+  <testcase name="Cards dealt correctly from unshuffled Shoe" classname="comp1721.cwk2.Basic" time="0.003"/>
+  <testcase name="CardException when creating a Shoe with wrong number of decks" classname="comp1721.cwk2.Basic" time="0.003"/>
+  <testcase name="CardException when dealing from empty shoe" classname="comp1721.cwk2.Basic" time="0.002"/>
+  <testcase name="Shoes are created with the correct numbers of cards" classname="comp1721.cwk2.Basic" time="0.002"/>
+  <testcase name="BaccaratHand has the correct string representation" classname="comp1721.cwk2.Basic" time="0.002"/>
+  <testcase name="BaccaratCard values are computed correctly" classname="comp1721.cwk2.Basic" time="0.003"/>
+  <testcase name="BaccaratCard has the correct string representation" classname="comp1721.cwk2.Basic" time="0.012"/>
+  <testcase name="BaccaratHand values computed correctly" classname="comp1721.cwk2.Basic" time="0.002"/>
+  <testcase name="Empty hand created correctly" classname="comp1721.cwk2.Basic" time="0.001"/>
+  <testcase name="BaccaratCard objects can be tested for equality" classname="comp1721.cwk2.Basic" time="0.002"/>
+  <testcase name="Correct detection of whether a BaccaratHand is a 'natural'" classname="comp1721.cwk2.Basic" time="0.002"/>
+  <testcase name="Cards added to hand correctly" classname="comp1721.cwk2.Basic" time="0.002"/>
+  <testcase name="Shoe can be shuffled" classname="comp1721.cwk2.Basic" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
